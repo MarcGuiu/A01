@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello DAM1!!");
         System.out.println("Marc Guiu");
         System.out.println("Josep Maria Maench");
+        System.out.println("Adriá Nuñez");
     }
 }
